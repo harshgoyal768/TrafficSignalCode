@@ -4,17 +4,17 @@ int t1r = 2;  // Traffic Light 1 - RED
 int t1y = 3;  // Traffic Light 1 - YELLOW
 int t1g = 4;  // Traffic Light 1 - GREEN
 
-int t2r = 5;  // Traffic Light 1 - RED
-int t2y = 6;  // Traffic Light 1 - YELLOW
-int t2g = 7;  // Traffic Light 1 - GREEN
+int t2r = 5;  // Traffic Light 2 - RED
+int t2y = 6;  // Traffic Light 2 - YELLOW
+int t2g = 7;  // Traffic Light 2 - GREEN
 
-int t3r = 8;  // Traffic Light 1 - RED
-int t3y = 9;  // Traffic Light 1 - YELLOW
-int t3g = 10;  // Traffic Light 1 - GREEN
+int t3r = 8;  // Traffic Light 3 - RED
+int t3y = 9;  // Traffic Light 3 - YELLOW
+int t3g = 10; // Traffic Light 3 - GREEN
 
-int t4r = 11;  // Traffic Light 1 - RED
-int t4y = 12;  // Traffic Light 1 - YELLOW
-int t4g = 13;  // Traffic Light 1 - GREEN
+int t4r = 11; // Traffic Light 4 - RED
+int t4y = 12; // Traffic Light 4 - YELLOW
+int t4g = 13; // Traffic Light 4 - GREEN
 
 int greenDelay = 4000;  // MilliSeconds for which it will be GREEN LIGHT
 int yellowDelay = 2000; // MilliSeconds for which it wiil be YELLOW LIGHT
